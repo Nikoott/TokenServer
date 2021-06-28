@@ -2,7 +2,9 @@
 Node Server to create Dialog Flow Access Token which then is used to make API Calls 
 
 ## About
-This is used as a workaround to avoid publishing confidential data to Github or any external hosting platform
+This is used as a workaround to avoid publishing confidential data to Github or any external hosting platform.
+
+A Node JS Server is being hosted locally on Port 4000 to generate tokens which can be used to connect to Google's Dialogflow Service.
 
 ## Requirements
 Node JS: https://nodejs.org/de/download/ 
