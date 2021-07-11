@@ -13,6 +13,8 @@ Cors Node JS Package: npm i cors --save
 
 Google OAuth 2.0 authentication: npm i google-oauth-jwt
 
+Express: npm i express
+
 ## Use
 Create a 'credentials.json' and add the required confidential data
 
